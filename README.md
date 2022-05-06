@@ -1,4 +1,4 @@
-#My Porous Python Project
+# My Porous Python Project
 This is an insecurely developed Python app intended to demonstrate:
 
 - Snyk code quality scanning
